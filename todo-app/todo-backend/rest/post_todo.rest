@@ -2,6 +2,6 @@ POST http://localhost:3000/todos
 Content-Type: application/json
 
 {
-  "text": "Learn Haskell",
+  "text": "Learn Category Theory",
   "done": false
 }
