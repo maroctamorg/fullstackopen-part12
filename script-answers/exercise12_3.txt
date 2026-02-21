@@ -1,0 +1,271 @@
+Script started on Sat Feb 21 06:55:28 2026
+Restored session: Sat Feb 21 06:55:15 EET 2026
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[95C[0m[1m[32m[1mmarcelo[0m@[32m[1mMarcelos-iMac[0m 
+[95C[0m---------------------[0m 
+[95C[0m[33m[1mOS[0m[0m:[0m macOS 13.7.8 22H730 x86_64[0m 
+[95C[0m[33m[1mHost[0m[0m:[0m iMac18,3[0m 
+[95C[0m[33m[1mKernel[0m[0m:[0m 22.6.0[0m 
+[95C[0m[33m[1mUptime[0m[0m:[0m 2 days, 14 hours, 37 mins[0m 
+[95C[0m[33m[1mPackages[0m[0m:[0m 64 (brew)[0m 
+[95C[0m[33m[1mShell[0m[0m:[0m zsh 5.9[0m 
+[95C[0m[33m[1mResolution[0m[0m:[0m 2560x1440[0m 
+[95C[0m[33m[1mDE[0m[0m:[0m Aqua[0m 
+[95C[0m[33m[1mWM[0m[0m:[0m Quartz Compositor[0m 
+[95C[0m[33m[1mWM Theme[0m[0m:[0m Blue (Dark)[0m 
+[95C[0m[33m[1mTerminal[0m[0m:[0m Apple_Terminal[0m 
+[95C[0m[33m[1mTerminal Font[0m[0m:[0m SFMono-Regular[0m 
+[95C[0m[33m[1mCPU[0m[0m:[0m Intel i5-7600K (4) @ 3.80GHz[0m 
+[95C[0m[33m[1mGPU[0m[0m:[0m Radeon Pro 580[0m 
+[95C[0m[33m[1mMemory[0m[0m:[0m 14336MiB / 24576MiB[0m 
+
+[95C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[95C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[0m[49m[39m[27m[24m[K
+
+[2A7[0m[49m[39m[38;5;238m╭─[0m[38;5;238m[48;5;234m[38;5;31m [1m[38;5;31m[48;5;234m[38;5;39m~[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m/Software/learning/[1m[38;5;31m[48;5;234m[38;5;39mfullstackopen-part12[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m[0m[38;5;31m[48;5;234m[48;5;234m[38;5;31m [0m[38;5;31m[48;5;234m[49m[38;5;234m▓▒░[0m[38;5;234m[49m[39m               [0m[49m[38;5;234m░▒▓[0m[38;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m✔[0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m[0m[38;5;70m[48;5;234m[48;5;234m[38;5;66m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;66m 06:55:29[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m [0m[38;5;66m[48;5;234m[49m[39m
+[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[?2004h[?25l8[0m[49m[39m[27m[24m[J]7;file://Marcelos-iMac/Users/marcelo/Software/learning/fullstackopen-part12]2;marcelo@Marcelos-iMac]1;..ckopen-part12]7;file://Marcelos-iMac/Users/marcelo/Software/learning/fullstackopen-part12\[0m[38;5;31m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                               [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[48;5;234m[38;5;31m [1m[38;5;31m[48;5;234m[38;5;39m~[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m/Software/learning/[1m[38;5;31m[48;5;234m[38;5;39mfullstackopen-part12[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m[0m[38;5;31m[48;5;234m[48;5;234m[38;5;31m [0m[38;5;31m[48;5;234m[48;5;234m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;76m [38;5;76mmain [38;5;39m?1[0m[38;5;39m[48;5;234m[48;5;234m[38;5;76m [0m[38;5;76m[48;5;234m[49m[38;5;234m▓▒░[0m[38;5;234m[49m[39m     [0m[49m[38;5;234m░▒▓[0m[38;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m✔[0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m[0m[38;5;70m[48;5;234m[48;5;234m[38;5;66m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;66m 06:55:29[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m [0m[38;5;66m[48;5;234m[49m[39m
+[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[?1h=[?25h[?2004h[7mquirky_meitner[27m[14D[27mq[27mu[27mi[27mr[27mk[27my[27m_[27mm[27me[27mi[27mt[27mn[27me[27m            q  rm script-answers/exercise12_3[30Dexit                          [26Dscript script-answers/exercise12_3[27D-f                         [24D[10Ddocker start -i quirky_meitner[?1l>[?2004l
+]2;docker start -i quirky_meitner]1;docker[?2004h]0;root@914d594df30f: /root@914d594df30f:/# aot-   ot-g    pt-get update
+[?2004l0% [Working]            Get:1 http://archive.ubuntu.com/ubuntu noble InRelease [256 kB]
+0% [1 InRelease 14.2 kB/256 kB 6%] [Connecting to security.ubuntu.com (91.189.9                                                                               Get:2 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+                                                                               0% [1 InRelease 223 kB/256 kB 87%] [2 InRelease 2588 B/126 kB 2%]                                                                 0% [2 InRelease 14.2 kB/126 kB 11%]                                   Get:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+0% [3 InRelease 15.6 kB/126 kB 12%] [2 InRelease 14.2 kB/126 kB 11%]                                                                    0% [2 InRelease 14.2 kB/126 kB 11%]0% [Waiting for headers] [2 InRelease 14.2 kB/126 kB 11%]                                                         Get:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+0% [4 InRelease 15.6 kB/126 kB 12%] [2 InRelease 14.2 kB/126 kB 11%]                                                                    0% [2 InRelease 17.1 kB/126 kB 14%]0% [Waiting for headers] [2 InRelease 25.8 kB/126 kB 20%]                                                         Get:5 http://archive.ubuntu.com/ubuntu noble/restricted amd64 Packages [117 kB]
+0% [5 Packages 15.0 kB/117 kB 13%] [2 InRelease 34.4 kB/126 kB 27%]                                                                   0% [Waiting for headers] [2 InRelease 40.2 kB/126 kB 32%]                                                         Get:6 http://archive.ubuntu.com/ubuntu noble/main amd64 Packages [1808 kB]
+0% [6 Packages 67.5 kB/1808 kB 4%] [2 InRelease 40.2 kB/126 kB 32%]0% [5 Packages store 0 B] [6 Packages 67.5 kB/1808 kB 4%] [2 InRelease 40.2 kB/                                                                               0% [6 Packages 140 kB/1808 kB 8%] [2 InRelease 43.1 kB/126 kB 34%]0% [6 Packages 257 kB/1808 kB 14%] [2 InRelease 43.1 kB/126 kB 34%]                                                                   0% [Waiting for headers] [2 InRelease 69.2 kB/126 kB 55%]                                                         Get:7 http://archive.ubuntu.com/ubuntu noble/universe amd64 Packages [19.3 MB]
+0% [7 Packages 54.7 kB/19.3 MB 0%] [2 InRelease 69.2 kB/126 kB 55%]0% [6 Packages store 0 B] [7 Packages 55.5 kB/19.3 MB 0%] [2 InRelease 69.2 kB/                                                                               0% [7 Packages 5953 kB/19.3 MB 31%] [2 InRelease 110 kB/126 kB 87%]                                                                   0% [7 Packages 5964 kB/19.3 MB 31%]41% [7 Packages 10.2 MB/19.3 MB 53%]                                    Get:8 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [1857 kB]
+46% [7 Packages 12.2 MB/19.3 MB 63%] [8 Packages 2655 B/1857 kB 0%]54% [7 Packages 15.3 MB/19.3 MB 79%] [8 Packages 443 kB/1857 kB 24%]a61% [7 Packages 17.7 MB/19.3 MB 92%] [8 Packages 1300 kB/1857 kB 70%]                                                                     64% [7 Packages 18.3 MB/19.3 MB 95%]64% [8 Packages store 0 B] [7 Packages 18.3 MB/19.3 MB 95%]                                                           65% [7 Packages 18.8 MB/19.3 MB 97%] [Waiting for headers]                                                          Get:9 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Packages [34.8 kB]
+65% [7 Packages 18.9 MB/19.3 MB 98%] [9 Packages 5555 B/34.8 kB 16%]                                                                    66% [7 Packages 19.0 MB/19.3 MB 98%] [Waiting for headers]                                                          Get:10 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [3196 kB]
+66% [7 Packages 19.0 MB/19.3 MB 98%] [10 Packages 923 B/3196 kB 0%]66% [9 Packages store 0 B] [7 Packages 19.0 MB/19.3 MB 98%] [10 Packages 923 B/                                                                               66% [7 Packages 19.0 MB/19.3 MB 98%] [10 Packages 6715 B/3196 kB 0%]                                                                    67% [Waiting for headers] [10 Packages 110 kB/3196 kB 3%]                                                         Get:11 http://archive.ubuntu.com/ubuntu noble/multiverse amd64 Packages [331 kB]
+67% [11 Packages 9290 B/331 kB 3%] [10 Packages 110 kB/3196 kB 3%]67% [7 Packages store 0 B] [11 Packages 9290 B/331 kB 3%] [10 Packages 110 kB/368% [7 Packages store 0 B] [Waiting for headers] [10 Packages 209 kB/3196 kB 7%                                                                               Get:12 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Packages [38.1 kB]
+68% [7 Packages store 0 B] [12 Packages 203 B/38.1 kB 1%] [10 Packages 209 kB/368% [7 Packages store 0 B] [Waiting for headers] [10 Packages 221 kB/3196 kB 7%                                                                               Get:13 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [2240 kB]
+68% [7 Packages store 0 B] [13 Packages 4896 B/2240 kB 0%] [10 Packages 221 kB/74% [7 Packages store 0 B] [Waiting for headers] [10 Packages 813 kB/3196 kB 25                                                                               Get:14 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [2016 kB]
+74% [7 Packages store 0 B] [14 Packages 2261 B/2016 kB 0%] [10 Packages 813 kB/                                                                               80% [14 Packages 1626 kB/2016 kB 81%] [10 Packages 1393 kB/3196 kB 44%]80% [11 Packages store 0 B] [14 Packages 1626 kB/2016 kB 81%] [10 Packages 1393                                                                               81% [14 Packages 1674 kB/2016 kB 83%] [10 Packages 1393 kB/3196 kB 44%]81% [12 Packages store 0 B] [14 Packages 1674 kB/2016 kB 83%] [10 Packages 1393                                                                               81% [14 Packages 1700 kB/2016 kB 84%] [10 Packages 1393 kB/3196 kB 44%]81% [13 Packages store 0 B] [14 Packages 1700 kB/2016 kB 84%] [10 Packages 139382% [13 Packages store 0 B] [Waiting for headers] [10 Packages 1464 kB/3196 kB                                                                                Get:15 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [3381 kB]
+82% [13 Packages store 0 B] [15 Packages 4002 B/3381 kB 0%] [10 Packages 1464 k                                                                               83% [15 Packages 378 kB/3381 kB 11%] [10 Packages 1518 kB/3196 kB 47%]83% [14 Packages store 0 B] [15 Packages 378 kB/3381 kB 11%] [10 Packages 1518                                                                                85% [15 Packages 702 kB/3381 kB 21%] [10 Packages 1690 kB/3196 kB 53%]92% [15 Packages 3252 kB/3381 kB 96%] [10 Packages 2413 kB/3196 kB 75%]                                                                       93% [Waiting for headers] [10 Packages 2455 kB/3196 kB 77%]                                                           Get:16 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Packages [34.6 kB]
+93% [16 Packages 5922 B/34.6 kB 17%] [10 Packages 2455 kB/3196 kB 77%]93% [15 Packages store 0 B] [16 Packages 5922 B/34.6 kB 17%] [10 Packages 2455                                                                                Get:17 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 Packages [49.5 kB]
+93% [15 Packages store 0 B] [17 Packages 2659 B/49.5 kB 5%] [10 Packages 2481 k                                                                               93% [15 Packages store 0 B] [10 Packages 2481 kB/3196 kB 78%]                                                             94% [10 Packages 2847 kB/3196 kB 89%]94% [16 Packages store 0 B] [10 Packages 2847 kB/3196 kB 89%]                                                             95% [10 Packages 2850 kB/3196 kB 89%]95% [17 Packages store 0 B] [10 Packages 2850 kB/3196 kB 89%]                                                             95% [10 Packages 2856 kB/3196 kB 89%]                                     96% [Waiting for headers]                         Get:18 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [1207 kB]
+96% [18 Packages 2896 B/1207 kB 0%]96% [10 Packages store 0 B] [18 Packages 2896 B/1207 kB 0%]                                                           97% [18 Packages 251 kB/1207 kB 21%]99% [18 Packages 1061 kB/1207 kB 88%]                                     99% [Working]99% [18 Packages store 0 B]                           100% [Working]              Fetched 36.3 MB in 5s (7399 kB/s)
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 4%Reading package lists... 4%Reading package lists... 54%Reading package lists... 54%Reading package lists... 54%Reading package lists... 54%Reading package lists... 55%Reading package lists... 55%Reading package lists... 62%Reading package lists... 62%Reading package lists... 68%Reading package lists... 68%Reading package lists... 70%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 85%Reading package lists... 85%Reading package lists... 89%Reading package lists... 89%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+[?2004h]0;root@914d594df30f: /root@914d594df30f:/# apt-get -y install vim
+[?2004lReading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 4%Reading package lists... 4%Reading package lists... 54%Reading package lists... 54%Reading package lists... 54%Reading package lists... 54%Reading package lists... 55%Reading package lists... 55%Reading package lists... 62%Reading package lists... 62%Reading package lists... 68%Reading package lists... 68%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 85%Reading package lists... 85%Reading package lists... 89%Reading package lists... 89%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 98%Reading state information... Done
+The following additional packages will be installed:
+  libexpat1 libgpm2 libpython3.12-minimal libpython3.12-stdlib
+  libpython3.12t64 libreadline8t64 libsodium23 libsqlite3-0 media-types
+  netbase readline-common tzdata vim-common vim-runtime xxd
+Suggested packages:
+  gpm readline-doc ctags vim-doc vim-scripts
+The following NEW packages will be installed:
+  libexpat1 libgpm2 libpython3.12-minimal libpython3.12-stdlib
+  libpython3.12t64 libreadline8t64 libsodium23 libsqlite3-0 media-types
+  netbase readline-common tzdata vim vim-common vim-runtime xxd
+0 upgraded, 16 newly installed, 0 to remove and 4 not upgraded.
+Need to get 16.4 MB of archives.
+After this operation, 72.1 MB of additional disk space will be used.
+0% [Working]            Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libexpat1 amd64 2.6.1-2ubuntu0.4 [88.2 kB]
+0% [1 libexpat1 14.2 kB/88.2 kB 16%]                                    2% [Working]            Get:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libpython3.12-minimal amd64 3.12.3-1ubuntu0.11 [837 kB]
+2% [2 libpython3.12-minimal 5500 B/837 kB 1%]                                             7% [Waiting for headers]                        Get:3 http://archive.ubuntu.com/ubuntu noble/main amd64 media-types all 10.1.0 [27.5 kB]
+7% [3 media-types 4096 B/27.5 kB 15%]                                     8% [Waiting for headers]                        Get:4 http://archive.ubuntu.com/ubuntu noble/main amd64 netbase all 6.4 [13.1 kB]
+8% [4 netbase 1646 B/13.1 kB 13%]                                 10% [Waiting for headers]                         Get:5 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 tzdata all 2025b-0ubuntu0.24.04.1 [276 kB]
+10% [5 tzdata 2722 B/276 kB 1%]                               12% [Waiting for headers]                         Get:6 http://archive.ubuntu.com/ubuntu noble/main amd64 readline-common all 8.2-4build1 [56.5 kB]
+12% [6 readline-common 6532 B/56.5 kB 12%]                                          14% [Waiting for headers]                         Get:7 http://archive.ubuntu.com/ubuntu noble/main amd64 libreadline8t64 amd64 8.2-4build1 [153 kB]
+14% [7 libreadline8t64 11.0 kB/153 kB 7%]                                         16% [Waiting for headers]                         Get:8 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libsqlite3-0 amd64 3.45.1-1ubuntu2.5 [701 kB]
+16% [8 libsqlite3-0 19.8 kB/701 kB 3%]                                      21% [Waiting for headers]                         Get:9 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libpython3.12-stdlib amd64 3.12.3-1ubuntu0.11 [2069 kB]
+21% [9 libpython3.12-stdlib 14.2 kB/2069 kB 1%]                                               32% [Waiting for headers]                         Get:10 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 vim-common all 2:9.1.0016-1ubuntu7.9 [386 kB]
+32% [10 vim-common 36.7 kB/386 kB 10%]                                      35% [Waiting for headers]                         Get:11 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 xxd amd64 2:9.1.0016-1ubuntu7.9 [63.8 kB]
+35% [11 xxd 43.6 kB/63.8 kB 68%]                                37% [Waiting for headers]                         Get:12 http://archive.ubuntu.com/ubuntu noble/main amd64 libgpm2 amd64 1.20.7-11 [14.1 kB]
+37% [12 libgpm2 0 B/14.1 kB 0%]                               Get:13 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libpython3.12t64 amd64 3.12.3-1ubuntu0.11 [2345 kB]
+38% [13 libpython3.12t64 30.7 kB/2345 kB 1%]                                            51% [Waiting for headers]                         Get:14 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libsodium23 amd64 1.0.18-1ubuntu0.24.04.1 [161 kB]
+51% [14 libsodium23 26.8 kB/161 kB 17%]                                       53% [Waiting for headers]                         Get:15 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 vim-runtime all 2:9.1.0016-1ubuntu7.9 [7281 kB]
+53% [15 vim-runtime 79.4 kB/7281 kB 1%]                                       90% [Waiting for headers]                         Get:16 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 vim amd64 2:9.1.0016-1ubuntu7.9 [1881 kB]
+90% [16 vim 20.2 kB/1881 kB 1%]                               100% [Working]              Fetched 16.4 MB in 1s (17.3 MB/s)
+debconf: delaying package configuration, since apt-utils is not installed
+Selecting previously unselected package libexpat1:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4381 files and directories currently installed.)
+Preparing to unpack .../00-libexpat1_2.6.1-2ubuntu0.4_amd64.deb ...
+Unpacking libexpat1:amd64 (2.6.1-2ubuntu0.4) ...
+Selecting previously unselected package libpython3.12-minimal:amd64.
+Preparing to unpack .../01-libpython3.12-minimal_3.12.3-1ubuntu0.11_amd64.deb ...
+Unpacking libpython3.12-minimal:amd64 (3.12.3-1ubuntu0.11) ...
+Selecting previously unselected package media-types.
+Preparing to unpack .../02-media-types_10.1.0_all.deb ...
+Unpacking media-types (10.1.0) ...
+Selecting previously unselected package netbase.
+Preparing to unpack .../03-netbase_6.4_all.deb ...
+Unpacking netbase (6.4) ...
+Selecting previously unselected package tzdata.
+Preparing to unpack .../04-tzdata_2025b-0ubuntu0.24.04.1_all.deb ...
+Unpacking tzdata (2025b-0ubuntu0.24.04.1) ...
+Selecting previously unselected package readline-common.
+Preparing to unpack .../05-readline-common_8.2-4build1_all.deb ...
+Unpacking readline-common (8.2-4build1) ...
+Selecting previously unselected package libreadline8t64:amd64.
+Preparing to unpack .../06-libreadline8t64_8.2-4build1_amd64.deb ...
+Adding 'diversion of /lib/x86_64-linux-gnu/libhistory.so.8 to /lib/x86_64-linux-gnu/libhistory.so.8.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libhistory.so.8.2 to /lib/x86_64-linux-gnu/libhistory.so.8.2.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libreadline.so.8 to /lib/x86_64-linux-gnu/libreadline.so.8.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libreadline.so.8.2 to /lib/x86_64-linux-gnu/libreadline.so.8.2.usr-is-merged by libreadline8t64'
+Unpacking libreadline8t64:amd64 (8.2-4build1) ...
+Selecting previously unselected package libsqlite3-0:amd64.
+Preparing to unpack .../07-libsqlite3-0_3.45.1-1ubuntu2.5_amd64.deb ...
+Unpacking libsqlite3-0:amd64 (3.45.1-1ubuntu2.5) ...
+Selecting previously unselected package libpython3.12-stdlib:amd64.
+Preparing to unpack .../08-libpython3.12-stdlib_3.12.3-1ubuntu0.11_amd64.deb ...
+Unpacking libpython3.12-stdlib:amd64 (3.12.3-1ubuntu0.11) ...
+Selecting previously unselected package vim-common.
+Preparing to unpack .../09-vim-common_2%3a9.1.0016-1ubuntu7.9_all.deb ...
+Unpacking vim-common (2:9.1.0016-1ubuntu7.9) ...
+Selecting previously unselected package xxd.
+Preparing to unpack .../10-xxd_2%3a9.1.0016-1ubuntu7.9_amd64.deb ...
+Unpacking xxd (2:9.1.0016-1ubuntu7.9) ...
+Selecting previously unselected package libgpm2:amd64.
+Preparing to unpack .../11-libgpm2_1.20.7-11_amd64.deb ...
+Unpacking libgpm2:amd64 (1.20.7-11) ...
+Selecting previously unselected package libpython3.12t64:amd64.
+Preparing to unpack .../12-libpython3.12t64_3.12.3-1ubuntu0.11_amd64.deb ...
+Unpacking libpython3.12t64:amd64 (3.12.3-1ubuntu0.11) ...
+Selecting previously unselected package libsodium23:amd64.
+Preparing to unpack .../13-libsodium23_1.0.18-1ubuntu0.24.04.1_amd64.deb ...
+Unpacking libsodium23:amd64 (1.0.18-1ubuntu0.24.04.1) ...
+Selecting previously unselected package vim-runtime.
+Preparing to unpack .../14-vim-runtime_2%3a9.1.0016-1ubuntu7.9_all.deb ...
+Adding 'diversion of /usr/share/vim/vim91/doc/help.txt to /usr/share/vim/vim91/doc/help.txt.vim-tiny by vim-runtime'
+Adding 'diversion of /usr/share/vim/vim91/doc/tags to /usr/share/vim/vim91/doc/tags.vim-tiny by vim-runtime'
+Unpacking vim-runtime (2:9.1.0016-1ubuntu7.9) ...
+Selecting previously unselected package vim.
+Preparing to unpack .../15-vim_2%3a9.1.0016-1ubuntu7.9_amd64.deb ...
+Unpacking vim (2:9.1.0016-1ubuntu7.9) ...
+Setting up libexpat1:amd64 (2.6.1-2ubuntu0.4) ...
+Setting up media-types (10.1.0) ...
+Setting up libsodium23:amd64 (1.0.18-1ubuntu0.24.04.1) ...
+Setting up libgpm2:amd64 (1.20.7-11) ...
+Setting up libsqlite3-0:amd64 (3.45.1-1ubuntu2.5) ...
+Setting up libpython3.12-minimal:amd64 (3.12.3-1ubuntu0.11) ...
+Setting up xxd (2:9.1.0016-1ubuntu7.9) ...
+Setting up tzdata (2025b-0ubuntu0.24.04.1) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.38.2 /usr/local/share/perl/5.38.2 /usr/lib/x86_64-linux-gnu/perl5/5.38 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.38 /usr/share/perl/5.38 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+debconf: falling back to frontend: Teletype
+Configuring tzdata
+------------------
+
+Please select the geographic area in which you live. Subsequent configuration
+questions will narrow this down by presenting a list of cities, representing
+the time zones in which they are located.
+
+  1. Africa      4. Arctic    7. Australia  10. Pacific
+  2. America     5. Asia      8. Europe     11. Etc
+  3. Antarctica  6. Atlantic  9. Indian     12. Legacy
+Geographic area: 8
+
+Please select the city or region corresponding to your time zone.
+
+  1. Amsterdam   14. Copenhagen   27. London      40. Riga        53. Ulyanovsk
+  2. Andorra     15. Dublin       28. Luxembourg  41. Rome        54. Vaduz
+  3. Astrakhan   16. Gibraltar    29. Madrid      42. Samara      55. Vatican
+  4. Athens      17. Guernsey     30. Malta       43. San_Marino  56. Vienna
+  5. Belfast     18. Helsinki     31. Mariehamn   44. Sarajevo    57. Vilnius
+  6. Belgrade    19. Isle_of_Man  32. Minsk       45. Saratov     58. Volgograd
+  7. Berlin      20. Istanbul     33. Monaco      46. Simferopol  59. Warsaw
+  8. Bratislava  21. Jersey       34. Moscow      47. Skopje      60. Zagreb
+  9. Brussels    22. Kaliningrad  35. Nicosia     48. Sofia       61. Zurich
+  10. Bucharest  23. Kirov        36. Oslo        49. Stockholm
+  11. Budapest   24. Kyiv         37. Paris       50. Tallinn
+  12. Busingen   25. Lisbon       38. Podgorica   51. Tirane
+  13. Chisinau   26. Ljubljana    39. Prague      52. Tiraspol
+Time zone: 18
+
+
+Current default time zone: 'Europe/Helsinki'
+Local time is now:      Sat Feb 21 06:56:30 EET 2026.
+Universal Time is now:  Sat Feb 21 04:56:30 UTC 2026.
+Run 'dpkg-reconfigure tzdata' if you wish to change it.
+
+Setting up vim-common (2:9.1.0016-1ubuntu7.9) ...
+Setting up netbase (6.4) ...
+Setting up vim-runtime (2:9.1.0016-1ubuntu7.9) ...
+Setting up readline-common (8.2-4build1) ...
+Setting up libreadline8t64:amd64 (8.2-4build1) ...
+Setting up libpython3.12-stdlib:amd64 (3.12.3-1ubuntu0.11) ...
+Setting up libpython3.12t64:amd64 (3.12.3-1ubuntu0.11) ...
+Setting up vim (2:9.1.0016-1ubuntu7.9) ...
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/editor (editor) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/editor.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/editor.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/editor.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/editor.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/editor.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/editor.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/editor.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/editor.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/editor.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/ex (ex) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/ex.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/ex.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/ex.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/ex.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/ex.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/ex.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/ex.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/ex.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/ex.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rview (rview) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rvim (rvim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vi (vi) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/vi.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/vi.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/vi.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/vi.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/vi.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/vi.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/vi.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/vi.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/vi.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/view (view) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/view.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/view.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/view.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/view.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/view.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/view.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/view.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/view.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/view.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vim (vim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vimdiff (vimdiff) in auto mode
+Processing triggers for libc-bin (2.39-0ubuntu8.7) ...
+[?2004h]0;root@914d594df30f: /root@914d594df30f:/# apt-get -y install vim[Kvim /usr/srs c/app/index.js 
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"/usr/src/app/index.js" 0L, 0B[2;1H�[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll[1;1H[?25h[?4m[27m[23m[29m[m[H[2J[?25l[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll"/usr/src/app/index.js" 0L, 0B[1;1H[?25h[?25l[24;53Hi[1;1H[24;53H [1;1H[24;1H[1m-- INSERT --[m[24;13H[K[24;63H0,1[11CAll[1;1H[?25h[?25lconsole.log([1m[35m'Hello World'[m)[1;12H[46m([13C)[m[24;63H1,27[1;27H[?25h[24;1H[K[1;26H[?25l[24;53H^[[1;26H[24;53H  [1;27H[24;63H1,26[10CAll[1;26H[?25h[?25l[24;53H;[1;26H[24;53H [1;26H[?25h[?25l[24;53H:[1;26H[24;53H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"/usr/src/app/index.js" 1L, 27B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;root@914d594df30f: /root@914d594df30f:/# [Kexit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Marcelos-iMac/Users/marcelo/Software/learning/fullstackopen-part12]2;marcelo@Marcelos-iMac]1;..ckopen-part12]7;file://Marcelos-iMac/Users/marcelo/Software/learning/fullstackopen-part12\[0m[27m[24m[J[0m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[48;5;234m[38;5;31m [1m[38;5;31m[48;5;234m[38;5;39m~[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m/[38;5;103mSo[0m[38;5;103m[48;5;234m[48;5;234m[38;5;31m/learning/[1m[38;5;31m[48;5;234m[38;5;39mfullstackopen-part12[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m[0m[38;5;31m[48;5;234m[48;5;234m[38;5;31m [0m[38;5;31m[48;5;234m[48;5;234m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;76m [38;5;76mmain [38;5;39m?1[0m[38;5;39m[48;5;234m[48;5;234m[38;5;76m [0m[38;5;76m[48;5;234m[49m[38;5;234m▓▒░[0m[38;5;234m[49m[39m  [0m[49m[38;5;234m░▒▓[0m[38;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m✔[0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m[0m[38;5;70m[48;5;234m[48;5;234m[38;5;248m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;248m 1m 30s[0m[38;5;248m[48;5;234m[48;5;234m[38;5;248m[0m[38;5;248m[48;5;234m[48;5;234m[38;5;248m [0m[38;5;248m[48;5;234m[48;5;234m[38;5;248m[0m[38;5;248m[48;5;234m[48;5;234m[38;5;66m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;66m 06:57:07[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m [0m[38;5;66m[48;5;234m[49m[39m
+[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Saving session...completed.
+
+Script done on Sat Feb 21 06:57:08 2026
