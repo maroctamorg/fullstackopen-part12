@@ -1,0 +1,166 @@
+Script started on Sat Feb 21 09:50:15 2026
+Restored session: Sat Feb 21 08:59:38 EET 2026
+[?25l[?7l  
+  ⠀⠀⡶⠛⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠚⢶⡀⠀
+  ⢰⠛⠃⠀⢠⣏⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀⣸⠇⠀⠈⠙⣧
+  ⠸⣦⣤⣄⠀⠙⢷⣤⣶⠟⠛⢉⣁⣤⣤⣤⣤⣀⣉⠙⠻⢷⣤⡾⠋⢀⣤⣤⣴⠏
+  ⠀⠀⠀⠈⠳⣤⡾⠋⣀⣴⣿⣿⠿⠿⠟⠛⠿⠿⣿⣿⣶⣄⠙⢿⣦⠟⠁⠀⠀⠀
+  ⠀⠀⠀⢀⣾⠟⢀⣾⣿⠟⠋        ⠉⠻⣿⣷⡄⠹⣷⡀⠀⠀⠀
+  ⠀⠀⠀⣾⡏⢠⣿⣿⡯⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠤⠤⠽⣿⣿⡆⠹⣷⡀⠀⠀
+  ⠀⠀⢸⣟⣠⡿⠿⠟⠒⣒⣒⣉⣉⣉⣉⣉⣉⣉⣉⣉⣒⣒⡛⠻⠿⢤⣹⣇⠀⠀
+  ⠀⠀⣾⡭⢤⣤⣠⡞⠉⠁⢀⣀⣀⠀⠀⠀⠀⢀⣀⣀⠀⠈⢹⣦⣤⡤⠴⣿⠀⠀
+  ⠀⠀⣿⡇⢸⣿⣿⣇⠀⣼⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣷⠀⢸⣿⣿⡇⠀⣿⠀⠀
+  ⠀⠀⢻⡇⠸⣿⣿⣿⡄⢿⣿⣿⣿⡿⠀⠀⢿⣿⣿⣿⡿⢀⣿⣿⣿⡇⢸⣿⠀⠀
+  ⠀⠀⠸⣿⡀⢿⣿⣿⣿⣆⠉⠛⠋⠀⢴⣶⠀⠉⠛⠉⣠⣿⣿⣿⡿⠀⣾⠇⠀⠀
+  ⠀⠀⠀⢻⣷⡈⢻⣿⣿⣿⣿⣶⣤⣀⣈⣁⣀⡤⣴⣿⣿⣿⣿⡿⠁⣼⠏⠀⠀⠀
+  ⠀⠀⠀⢀⣽⣷⣄⠙⢿⣿⣿⡟⢲⠧⡦⠼⠤⢷⢺⣿⣿⡿⠋⣠⣾⢿⣄⠀⠀⠀
+  ⣰⠟⠛⠛⠁⣨⡿⢷⣤⣈⠙⢿⡙⠒⠓⠒⠒⠚⡹⠛⢁⣤⣾⠿⣧⡀⠙⠋⠙⣆
+  ⠹⣤⡀⠀⠐⡏⠀⠀⠉⠛⠿⣶⣿⣶⣤⣤⣤⣾⣷⠾⠟⠋⠀⠀⢸⡇⠀⢠⣤⠟
+  ⠀⠀⠳⢤⠾⠃⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠘⠷⠤⠾⠁⠀[0m
+[17A[9999999D[95C[0m[1m[32m[1mmarcelo[0m@[32m[1mMarcelos-iMac[0m 
+[95C[0m---------------------[0m 
+[95C[0m[33m[1mOS[0m[0m:[0m macOS 13.7.8 22H730 x86_64[0m 
+[95C[0m[33m[1mHost[0m[0m:[0m iMac18,3[0m 
+[95C[0m[33m[1mKernel[0m[0m:[0m 22.6.0[0m 
+[95C[0m[33m[1mUptime[0m[0m:[0m 2 days, 17 hours, 32 mins[0m 
+[95C[0m[33m[1mPackages[0m[0m:[0m 64 (brew)[0m 
+[95C[0m[33m[1mShell[0m[0m:[0m zsh 5.9[0m 
+[95C[0m[33m[1mResolution[0m[0m:[0m 2560x1440[0m 
+[95C[0m[33m[1mDE[0m[0m:[0m Aqua[0m 
+[95C[0m[33m[1mWM[0m[0m:[0m Quartz Compositor[0m 
+[95C[0m[33m[1mWM Theme[0m[0m:[0m Blue (Dark)[0m 
+[95C[0m[33m[1mTerminal[0m[0m:[0m Apple_Terminal[0m 
+[95C[0m[33m[1mTerminal Font[0m[0m:[0m SFMono-Regular[0m 
+[95C[0m[33m[1mCPU[0m[0m:[0m Intel i5-7600K (4) @ 3.80GHz[0m 
+[95C[0m[33m[1mGPU[0m[0m:[0m Radeon Pro 580[0m 
+[95C[0m[33m[1mMemory[0m[0m:[0m 14557MiB / 24576MiB[0m 
+
+[95C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[95C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h[0m[49m[39m[27m[24m[K
+
+[2A7[0m[49m[39m]133;A[38;5;238m╭─[0m[38;5;238m[48;5;234m[38;5;31m [1m[38;5;31m[48;5;234m[38;5;39m~[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m/Software/learning/[1m[38;5;31m[48;5;234m[38;5;39mfullstackopen-part12[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m[0m[38;5;31m[48;5;234m[48;5;234m[38;5;31m [0m[38;5;31m[48;5;234m[49m[38;5;234m▓▒░[0m[38;5;234m[49m[39m               [0m[49m[38;5;234m░▒▓[0m[38;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m✔[0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m[0m[38;5;70m[48;5;234m[48;5;234m[38;5;66m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;66m 09:50:16[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m [0m[38;5;66m[48;5;234m[49m[39m
+[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m]133;B[?2004hdocke[?25l8[0m[49m[39m[27m[24m[J]7;file://Marcelos-iMac/Users/marcelo/Software/learning/fullstackopen-part12]2;marcelo@Marcelos-iMac]1;..ckopen-part12]7;file://Marcelos-iMac/Users/marcelo/Software/learning/fullstackopen-part12\[0m[38;5;31m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                               [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[48;5;234m[38;5;31m [1m[38;5;31m[48;5;234m[38;5;39m~[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m/Software/learning/[1m[38;5;31m[48;5;234m[38;5;39mfullstackopen-part12[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m[0m[38;5;31m[48;5;234m[48;5;234m[38;5;31m [0m[38;5;31m[48;5;234m[48;5;234m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;76m [38;5;76mmain [38;5;39m?1[0m[38;5;39m[48;5;234m[48;5;234m[38;5;76m [0m[38;5;76m[48;5;234m[49m[38;5;234m▓▒░[0m[38;5;234m[49m[39m     [0m[49m[38;5;234m░▒▓[0m[38;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m✔[0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m[0m[38;5;70m[48;5;234m[48;5;234m[38;5;66m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;66m 09:50:16[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m [0m[38;5;66m[48;5;234m[49m[39m
+[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[?1h=[?25h[?2004hddocker exec -t it [7mtodo-backend-mongo-1[27m[20D[27mt[27mo[27md[27mo[27m-[27mb[27ma[27mc[27mk[27me[27mn[27md[27m-[27mm[27mo[27mn[27mg[27mo[27m-[27m1 bash[?1l>[?2004l
+]2;docker exec -it todo-backend-mongo-1 bash]1;docker[?2004hroot@5b31d4335122:/# mongosh
+[?2004l]0;mongosh mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000Current Mongosh Log ID:	6999640340091e4b8c8563b0
+Connecting to:		[1m[32mmongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.7.0[0m
+Using MongoDB:		undefined
+[1m[33mUsing Mongosh[0m:		2.7.0
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+
+To help improve our products, anonymous usage data is collected and sent to MongoDB periodically (https://www.mongodb.com/legal/privacy-policy).
+You can opt-out by running the disableTelemetry() command.
+
+[1G[0J [1G[?2004h[1G[0Jtest> [7Gshow dbs
+Uncaught [1m[31mMongoServerError[0m[1m[31m[Unauthorized][0m: Command listDatabases requires authentication
+[1G[0Jtest> [7G
+(To exit, press Ctrl+C again or Ctrl+D or type .exit)
+[1G[0Jtest> [7Gexit
+[?2004l]0;[?2004hroot@5b31d4335122:/# nibg    nib=    mongosh -u root -p example
+[?2004l]0;mongosh mongodb://<credentials>@127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000Current Mongosh Log ID:	69996422434a0f70bb8563b0
+Connecting to:		[1m[32mmongodb://<credentials>@127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.7.0[0m
+Using MongoDB:		8.2.5
+[1m[33mUsing Mongosh[0m:		2.7.0
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+[1G[0J [1G[?2004h[1m[33m------[0m
+   [1m[33mThe server generated these startup warnings when booting[0m
+   2026-02-21T07:32:36.829+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+   2026-02-21T07:32:37.206+00:00: For customers running the current memory allocator, we suggest changing the contents of the following sysfsFile
+   2026-02-21T07:32:37.206+00:00: We suggest setting the contents of sysfsFile to 0.
+   2026-02-21T07:32:37.206+00:00: We suggest setting swappiness to 0 or 1, as swapping can cause performance problems.
+[1m[33m------[0m
+
+[1G[0Jtest> [7Gshow dbs
+[1madmin[0m         100.00 KiB
+[1mconfig[0m        108.00 KiB
+[1mlocal[0m          72.00 KiB
+[1mthe_database[0m   56.00 KiB
+[1G[0Jtest> [7Guse the_database
+switched to db the_database
+[1G[0Jthe_database> [15Gshow collections
+[1mtodos[0m
+[1G[0Jthe_database> [15Gdb.todos.find({})
+[
+  {
+    _id: ObjectId([32m'69995f9384289209318563b1'[39m),
+    text: [32m'(Updated) Write code'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId([32m'69995f9384289209318563b2'[39m),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  }
+]
+[1G[0Jthe_database> [15Gdb.todos.insertOne({})[1D[1G[0Jthe_database> db.todos.insertOne[44m([49m{})[36G[1D[1G[0Jthe_database> db.todos.insertOne([44m{[49m})[35G[1G[0Jthe_database> db.todos.insertOne([44m{[49me})[36G[1G[0Jthe_database> db.todos.insertOne([44m{[49m})[35G[1G[0Jthe_database> db.todos.insertOne([44m{[49mt})[36G[1G[0Jthe_database> db.todos.insertOne([44m{[49mte})[37G[1G[0Jthe_database> db.todos.insertOne([44m{[49mtex})[38G[1G[0Jthe_database> db.todos.insertOne([44m{[49mtext})[39G[1G[0Jthe_database> db.todos.insertOne([44m{[49m[33mtext[39m:})[40G[1G[0Jthe_database> db.todos.insertOne([44m{[49m[33mtext[39m: })[41G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"})[39m[42G[1G[0Jthe_database> db.todos.insertOne([44m{[49m[33mtext[39m: [32m""[39m})[43G[1D[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49m"[39m})[42G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mB"[39m})[43G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBr"[39m})[44G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBru"[39m})[45G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrus"[39m})[46G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush"[39m})[47G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush "[39m})[48G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush t"[39m})[49G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush te"[39m})[50G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush tee"[39m})[51G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush teet"[39m})[52G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush teeth"[39m})[53G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m[32m"})[39m[54G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m,[32m"})[39m[55G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [32m"})[39m[56G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, d[32m"})[39m[57G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [36mdo[39m[32m"})[39m[58G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, don[32m"})[39m[59G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, done[32m"})[39m[60G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m:[32m"})[39m[61G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [32m"})[39m[62G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: f[32m"})[39m[63G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: fa[32m"})[39m[64G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: fal[32m"})[39m[65G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: fals[32m"})[39m[66G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m[32m"})[39m[67G[1C[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m[32m"})[39m[68G[1C[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m[32m"})[39m[69G[1C[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m[32m"})[39m[70G[1D[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m[32m"})[39m[69G[1D[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m[32m"})[39m[68G[1G[0Jthe_database> db.todos.insertOne([44m{[49m[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m})[67G[1C[1G[0Jthe_database> db.todos.insertOne[44m([49m{[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m})[68G[1C[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m})[69G
+{
+  acknowledged: [33mtrue[39m,
+  insertedId: ObjectId([32m'699964b0434a0f70bb8563b1'[39m)
+}
+[1G[0Jthe_database> [15G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m})[69G[1G[0Jthe_database> db.todos.find({})[32G
+[
+  {
+    _id: ObjectId([32m'69995f9384289209318563b1'[39m),
+    text: [32m'(Updated) Write code'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId([32m'69995f9384289209318563b2'[39m),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId([32m'699964b0434a0f70bb8563b1'[39m),
+    text: [32m'Brush teeth'[39m,
+    done: [33mfalse[39m
+  }
+]
+[1G[0Jthe_database> [15G[1G[0Jthe_database> db.todos.find({})[32G[1D[1G[0Jthe_database> db.todos.find[44m([49m{})[31G[1D[1G[0Jthe_database> db.todos.find([44m{[49m})[30G[1G[0Jthe_database> db.todos.find({[30G
+[1G[0Jthe_database> [15G[1G[0Jthe_database> db.todos.find({})[32G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m})[69G[1D[1G[0Jthe_database> db.todos.insertOne[44m([49m{[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m})[68G[1D[1G[0Jthe_database> db.todos.insertOne([44m{[49m[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m})[67G[1D[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Brush teeth"[39m, [33mdone[39m: [33mfalse[39m})[66G[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush teeth"[39m, [33mdone[39m: [33mfalse[39m})[53G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush teet"[39m, [33mdone[39m: [33mfalse[39m})[52G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush tee"[39m, [33mdone[39m: [33mfalse[39m})[51G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush te"[39m, [33mdone[39m: [33mfalse[39m})[50G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush t"[39m, [33mdone[39m: [33mfalse[39m})[49G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush "[39m, [33mdone[39m: [33mfalse[39m})[48G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrush"[39m, [33mdone[39m: [33mfalse[39m})[47G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBrus"[39m, [33mdone[39m: [33mfalse[39m})[46G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBru"[39m, [33mdone[39m: [33mfalse[39m})[45G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mBr"[39m, [33mdone[39m: [33mfalse[39m})[44G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49mB"[39m, [33mdone[39m: [33mfalse[39m})[43G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [44m[32m"[49m"[39m, [33mdone[39m: [33mfalse[39m})[42GIncrease the number of tools in my tool belt[1C[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Increase the number of tools in my tool belt"[39m, [33mdone[39m: [33mfalse[39m})[7G[15C
+{
+  acknowledged: [33mtrue[39m,
+  insertedId: ObjectId([32m'699964d3434a0f70bb8563b2'[39m)
+}
+[1G[0Jthe_database> [15G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m"Increase the number of tools in my tool belt"[39m, [33mdone[39m: [33mfalse[39m})[22G[1A[1G[0Jthe_database> db.todos.find({})[32G
+[
+  {
+    _id: ObjectId([32m'69995f9384289209318563b1'[39m),
+    text: [32m'(Updated) Write code'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId([32m'69995f9384289209318563b2'[39m),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId([32m'699964b0434a0f70bb8563b1'[39m),
+    text: [32m'Brush teeth'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId([32m'699964d3434a0f70bb8563b2'[39m),
+    text: [32m'Increase the number of tools in my tool belt'[39m,
+    done: [33mfalse[39m
+  }
+]
+[1G[0Jthe_database> [15Gexit
+[?2004l]0;[?2004hroot@5b31d4335122:/# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Marcelos-iMac/Users/marcelo/Software/learning/fullstackopen-part12]2;marcelo@Marcelos-iMac]1;..ckopen-part12]7;file://Marcelos-iMac/Users/marcelo/Software/learning/fullstackopen-part12\[0m[27m[24m[J[0m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[48;5;234m[38;5;31m [1m[38;5;31m[48;5;234m[38;5;39m~[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m/[38;5;103mSo[0m[38;5;103m[48;5;234m[48;5;234m[38;5;31m/learning/[1m[38;5;31m[48;5;234m[38;5;39mfullstackopen-part12[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m[0m[38;5;31m[48;5;234m[48;5;234m[38;5;31m [0m[38;5;31m[48;5;234m[48;5;234m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[30m [38;5;244mmain [38;5;244m?1[0m[38;5;244m[48;5;234m[48;5;234m[30m [0m[30m[48;5;234m[49m[38;5;234m▓▒░[0m[38;5;234m[49m[39m   [0m[49m[38;5;234m░▒▓[0m[38;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m✔[0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m[0m[38;5;70m[48;5;234m[48;5;234m[38;5;248m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;248m 4m 8s[0m[38;5;248m[48;5;234m[48;5;234m[38;5;248m[0m[38;5;248m[48;5;234m[48;5;234m[38;5;248m [0m[38;5;248m[48;5;234m[48;5;234m[38;5;248m[0m[38;5;248m[48;5;234m[48;5;234m[38;5;66m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;66m 09:55:28[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m [0m[38;5;66m[48;5;234m[49m[39m
+[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[?1h=[?2004h[?25l[A[0m[27m[24m[J[0m[49m[39m
+[A[38;5;238m╭─[0m[38;5;238m[48;5;234m[38;5;31m [1m[38;5;31m[48;5;234m[38;5;39m~[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m/[38;5;103mSo[0m[38;5;103m[48;5;234m[48;5;234m[38;5;31m/learning/[1m[38;5;31m[48;5;234m[38;5;39mfullstackopen-part12[0m[38;5;39m[48;5;234m[48;5;234m[38;5;31m[0m[38;5;31m[48;5;234m[48;5;234m[38;5;31m [0m[38;5;31m[48;5;234m[48;5;234m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;76m [38;5;76mmain [38;5;39m?1[0m[38;5;39m[48;5;234m[48;5;234m[38;5;76m [0m[38;5;76m[48;5;234m[49m[38;5;234m▓▒░[0m[38;5;234m[49m[39m   [0m[49m[38;5;234m░▒▓[0m[38;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m✔[0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m [0m[38;5;70m[48;5;234m[48;5;234m[38;5;70m[0m[38;5;70m[48;5;234m[48;5;234m[38;5;248m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;248m 4m 8s[0m[38;5;248m[48;5;234m[48;5;234m[38;5;248m[0m[38;5;248m[48;5;234m[48;5;234m[38;5;248m [0m[38;5;248m[48;5;234m[48;5;234m[38;5;248m[0m[38;5;248m[48;5;234m[48;5;234m[38;5;66m[38;5;242m│[0m[38;5;242m[48;5;234m[48;5;234m[38;5;66m 09:55:28[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m[0m[38;5;66m[48;5;234m[48;5;234m[38;5;66m [0m[38;5;66m[48;5;234m[49m[39m
+[38;5;238m╰─[0m[38;5;238m[49m[39m[0m[49m[39m [0m[49m[39m[K[?25heexit[?1l>[?2004l
+]2;exit]1;exit
+Saving session...completed.
+
+Script done on Sat Feb 21 09:55:29 2026
