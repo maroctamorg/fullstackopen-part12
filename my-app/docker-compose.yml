@@ -1,0 +1,42 @@
+services:
+  app:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    image: my-app-frontend
+    container_name: my-app-frontend
+
+  server:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: my-app-backend
+    container_name: my-app-backend
+    env_file:
+      - ./backend/.env
+    environment:
+      - PORT=4000
+
+  mongo:
+    image: mongo
+    ports:
+      - 3456:27017
+    env_file:
+      - ./backend/.env
+    volumes:
+      - ./backend/mongo/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js
+      - mongo_data:/data/db
+
+  nginx:
+    image: nginx:1.20.1
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - 8080:80
+    container_name: reverse-proxy
+    depends_on:
+      - app
+      - server
+
+volumes:
+  mongo_data:

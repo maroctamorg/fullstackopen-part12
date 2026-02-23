@@ -1,0 +1,48 @@
+services:
+  app:
+    build:
+      context: ./frontend
+      dockerfile: dev.Dockerfile
+    image: my-app-frontend-dev
+    container_name: my-app-frontend-dev
+    volumes:
+      - ./frontend:/usr/src/app
+    environment:
+      - VITE_GRAPHQL_URL=/api
+
+  server:
+    build:
+      context: ./backend
+      dockerfile: dev.Dockerfile
+    image: my-app-backend-dev
+    container_name: my-app-backend-dev
+    volumes:
+      - ./backend:/usr/src/app
+    env_file:
+      - ./backend/.env
+    environment:
+      - PORT=4000
+
+  mongo:
+    image: mongo
+    ports:
+      - 3456:27017
+    env_file:
+      - ./backend/.env
+    volumes:
+      - ./backend/mongo/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js
+      - mongo_data:/data/db
+
+  nginx:
+    image: nginx:1.20.1
+    volumes:
+      - ./nginx.dev.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - 8080:80
+    container_name: reverse-proxy-dev
+    depends_on:
+      - app
+      - server
+
+volumes:
+  mongo_data:
